@@ -1,0 +1,27 @@
+{
+  "name": "kawkamateusz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-carousel": "^1.0.5",
+    "core-js": "2.6.*",
+    "global": "^4.4.0",
+    "hooper": "^0.3.4",
+    "nuxt": "^2.13.1",
+    "vue": "^2.6.11",
+    "vue-slick-carousel": "^1.0.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}
